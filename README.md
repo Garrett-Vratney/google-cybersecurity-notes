@@ -9,6 +9,11 @@ Notes and Concepts learned while completing the Google Cybersecurity Professiona
 - SIEM Tools
 - SQL
 - Python
+- Incident Response Playbook
+- Network Architecture & Network Tools
+- Network Operations
+- Securing Against Network Intrusions
+- Security Hardening
 
 ## Goals
 - Build foundational cybersecurity knowledge
